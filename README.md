@@ -1,144 +1,24 @@
-# Hi there! 👋 I'm **Shirley V**
+<p align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=FFB6C1&center=true&vCenter=true&multiline=true&width=900&height=70&lines=Hi+there!+I'm+Shirley+V+%F0%9F%91%8B;Final+Year+Computer+Science+Student;AI+%E2%80%A2+Machine+Learning+%E2%80%A2+Data+Science;Full+Stack+Developer;Building+AI-powered+Applications+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-### 🎓 Final Year Computer Science Engineering Student | AI • Data Science • Full Stack Developer
-
-<p>
-Building intelligent, AI-powered applications that solve real-world problems through Machine Learning, Data Science, and Full Stack Development.
 </p>
 
----
+<h1 align="center">Hi 👋, I'm Shirley V</h1>
 
-## 🚀 About Me
-
-* 🎓 Final Year **B.E. Computer Science & Engineering** Student
-* 🤖 Passionate about **Artificial Intelligence & Machine Learning**
-* 📊 Interested in **Data Science, Computer Vision & NLP**
-* 🌐 Building scalable **Full Stack Web Applications**
-* 💡 Always learning, building, and improving
-* 🎯 Seeking **Software Engineering, AI/ML & Data Science** opportunities
+<h3 align="center">
+Final Year Computer Science Student • AI • Machine Learning • Data Science • Full Stack Developer
+</h3>
 
 ---
 
-## 🛠️ Tech Stack
+## 💖 About Me
 
-### 👨‍💻 Programming Languages
+🎓 Final Year Computer Science Engineering Student
 
-`Python` • `Java` • `JavaScript` • `C` • `C++`
+🤖 Passionate about Artificial Intelligence & Machine Learning
 
-### 🌐 Web Development
+📊 Exploring Data Science & Analytics
 
-`HTML5` • `CSS3` • `React` • `Flask` • `Spring Boot`
+🌐 Building Full Stack Web Applications
 
-### 🗄️ Databases
-
-`MySQL`
-
-### 🤖 AI / Machine Learning
-
-`Pandas` • `NumPy` • `Scikit-learn` • `OpenCV` • `YOLOv8` • `NLP`
-
-### ⚙️ Tools & Platforms
-
-`Git` • `GitHub` • `VS Code` • `Postman` • `Streamlit` • `Jupyter Notebook`
-
----
-
-# 🌟 Featured Projects
-
-### 🧠 SkillSnap
-
-**AI-Powered Resume Analyzer**
-
-✔ ATS Resume Scoring
-✔ NLP Skill Extraction
-✔ AI Job Matching
-
-🔗 **Live Demo:** https://skillsnap-iota.vercel.app
-
-🔗 **GitHub:** https://github.com/shirleyvinston/skillsnap
-
----
-
-### 🚗 Traffic Density Estimator
-
-Real-time vehicle detection and traffic analytics using **YOLOv8**, **OpenCV**, **ByteTrack**, and **Streamlit**.
-
-🔗 https://github.com/shirleyvinston/traffic-density-estimator
-
----
-
-### ✈️ Travel Request System
-
-A Full Stack Travel Management System built using **Flask**, **MySQL**, **HTML/CSS**, and **JavaScript**.
-
-🔗 https://github.com/shirleyvinston/travel_request_system
-
----
-
-### 🌍 ClimateScope
-
-Interactive Weather Analytics Dashboard with data visualization and climate insights using **Python** and **Streamlit**.
-
-🔗 https://github.com/shirleyvinston/ClimateScope
-
----
-
-## 💼 Experience
-
-### 🧠 Machine Learning Intern
-
-**FlyRank**
-
-* Worked on Machine Learning workflows and AI-based solutions.
-* Collaborated on real-world ML tasks and model development.
-
-### 💻 Software Development Intern
-
-**Chrisvin**
-
-* Developed and enhanced Full Stack applications.
-* Worked with backend development, databases, and REST APIs.
-
----
-
-## 📜 Certifications
-
-🏅 Infosys Springboard
-
-🏅 NPTEL
-
-🏅 Udemy
-
-🏅 Python Programming
-
-🏅 Java Programming
-
-🏅 Spring Boot
-
-🏅 MySQL Bootcamp
-
----
-
-## 🎯 Current Focus
-
-* 🤖 Artificial Intelligence
-* 📊 Data Science
-* 🧠 Machine Learning
-* 🌐 Full Stack Development
-* 🚀 Building impactful projects
-
----
-
-## 📫 Let's Connect
-
-📧 **Email:** [shirley.vinstonworks@gmail.com](mailto:shirley.vinstonworks@gmail.com)
-
-💼 **LinkedIn:** https://www.linkedin.com/in/shirleyvinston/
-
-💻 **GitHub:** https://github.com/shirleyvinston
-
-🌐 **Portfolio:** Coming Soon 🚀
-
----
-
-⭐ *"Always learning, always building, always improving."*
+🚀 Open to Software Engineering, AI/ML & Data Science Opportunities
