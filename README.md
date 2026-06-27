@@ -27,17 +27,15 @@
 <img src="https://streak-stats.demolab.com?user=shirleyvinston&theme=transparent&hide_border=true"/>
 
 </p>
+
 🌸 About Me
 
 🎓 Final Year B.E. Computer Science Engineering Student
-
 🤖 Passionate about Artificial Intelligence & Machine Learning
-
 📊 Interested in Data Science, Computer Vision & NLP
-
 💻 Building Full Stack Web Applications using React, Flask & Spring Boot
-
 🚀 Open to Software Engineering, AI/ML & Data Science Opportunities
+
 🚀 Featured Projects
 
 | Project | Description |
