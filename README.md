@@ -3,7 +3,7 @@
 </p>
 <p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A0DCFFFF&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Shirley+V+👋;Final+Year+Computer+Science+Student;AI+%7C+Machine+Learning+%7C+Data+Science;Full+Stack+Developer;Building+AI-powered+Applications+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3C9DFFFF&center=true&vCenter=true&width=900&lines=Hi+there!+I'm+Shirley+V+👋;Final+Year+Computer+Science+Student;AI+%7C+Machine+Learning+%7C+Data+Science;Full+Stack+Developer;Building+AI-powered+Applications+🚀)](https://git.io/typing-svg)
 
 </p>
 💻 Tech Stack
@@ -27,14 +27,6 @@
 <img src="https://streak-stats.demolab.com?user=shirleyvinston&theme=transparent&hide_border=true"/>
 
 </p>
-
-🌸 About Me
-
-🎓 Final Year B.E. Computer Science Engineering Student
-🤖 Passionate about Artificial Intelligence & Machine Learning
-📊 Interested in Data Science, Computer Vision & NLP
-💻 Building Full Stack Web Applications using React, Flask & Spring Boot
-🚀 Open to Software Engineering, AI/ML & Data Science Opportunities
 
 🚀 Featured Projects
 
