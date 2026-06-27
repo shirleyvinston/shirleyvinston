@@ -46,6 +46,8 @@
 | 🚗 Traffic Density Estimator | YOLOv8 & OpenCV based real-time traffic analytics |
 | ✈️ Travel Request System | Full Stack Flask + MySQL Travel Management System |
 | 🌍 ClimateScope | Interactive Weather Analytics Dashboard |
+
+
 📫 Connect With Me
 
 <p align="center">
