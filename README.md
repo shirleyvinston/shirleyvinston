@@ -27,3 +27,54 @@
 <img src="https://streak-stats.demolab.com?user=shirleyvinston&theme=transparent&hide_border=true"/>
 
 </p>
+🌸 About Me
+
+🎓 Final Year B.E. Computer Science Engineering Student
+
+🤖 Passionate about Artificial Intelligence & Machine Learning
+
+📊 Interested in Data Science, Computer Vision & NLP
+
+💻 Building Full Stack Web Applications using React, Flask & Spring Boot
+
+🚀 Open to Software Engineering, AI/ML & Data Science Opportunities
+🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🧠 SkillSnap | AI-powered Resume Analyzer with ATS Scoring & Job Matching |
+| 🚗 Traffic Density Estimator | YOLOv8 & OpenCV based real-time traffic analytics |
+| ✈️ Travel Request System | Full Stack Flask + MySQL Travel Management System |
+| 🌍 ClimateScope | Interactive Weather Analytics Dashboard |
+📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shirleyvinston">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:shirley.vinstonworks@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+<a href="https://github.com/shirleyvinston">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+</p>
+📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shirleyvinston&theme=github-compact"/>
+🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shirleyvinston&theme=flat&no-frame=true&margin-w=15"/>
+
+</p>
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=shirleyvinston&label=Profile%20Views&color=A0DCFF&style=flat"/>
+
+</p>
