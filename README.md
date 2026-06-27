@@ -11,12 +11,19 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,js,react,flask,spring,mysql,git,github,vscode,html,css" />
 </p>
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=shirleyvinston&show_icons=true&theme=transparent&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shirleyvinston&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=shirleyvinston&theme=transparent&hide_border=true"/>
 
 </p>
