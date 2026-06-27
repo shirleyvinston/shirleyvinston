@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/shirleyvinston/shirleyvinston/blob/main/banner.png?raw=true" alt="Shirley V Banner" width="100%">
+  <img src="https://github.com/shirleyvinston/shirleyvinston/blob/main/banner.pngraw=true" alt="Shirley V Banner" width="100%">
 </p>
 <p align="center">
 
