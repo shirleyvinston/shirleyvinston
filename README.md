@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shirleyvinston/shirleyvinston/main/Beige%20Feminine%20Personal%20LinkedIn%20Banner-2.png" alt="Shirley V Banner" width="100%">
+  <img src="https://github.com/shirleyvinston/shirleyvinston/blob/main/banner.png?raw=true" alt="Shirley V Banner" width="100%">
 </p>
 <p align="center">
 
